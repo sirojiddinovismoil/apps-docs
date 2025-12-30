@@ -22,8 +22,10 @@ $ npm init -y
 $ npm install express
 ```
 ---
-**express kutubkonasini import qilmoqilnadi uni qobilyatlaridan foydalanish uchun**
->import exspress from "express"
+**express kutubhonasini import qilnadi uni imkoniyatlaridan foydalanish uchun**
+```bash
+import exspress from "express"
+```
 ---
 
 **app ozgaruvchisiga express server funksiyasini biriktirmoqdamiz**
