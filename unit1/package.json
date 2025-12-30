@@ -1,0 +1,19 @@
+{
+   "name": "unit1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type":"module",
+  "description": "",
+  "devDependencies": {},
+  
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": ""
+}
